@@ -1,0 +1,25 @@
+## Bootstrap styling used:
+
+- Container : provide a means to center and horizontally pad to contents.
+- Navbar : create responsive navigation header.
+- FormControl : renders a form control with Bootstrap styling.
+- Button : create a Bootstrap styled button.
+- Image : customise image using roundedCircle setting.
+- Row : put contents in an inline row.
+- Col : split contens into column with desire width.
+- Collapse : used to show and hide content. Buttons are used as triggers that are mapped to specific elements.
+- Stack : stacked items are full-width.
+- text-center : align text to center.
+- text-start : align text to left.
+- bg-light : set background color to color 'light'.
+- bg-transparent : set no background.
+- mb-0 : set margin bottom to 0.
+- text-danger: set text color to red.
+- text-decoration-underline : underline text.
+- fw-bold: put text in bold.
+- mt-2 : set margin top to size 2.
+- text-primary : set text color to blue.
+- text-warning : set text color to yellow.
+- d-block : set content display to block.
+- mx-auto : set left-margin and right-margin to auto.
+- size : adjust size of button and form input.
